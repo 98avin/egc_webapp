@@ -6,14 +6,14 @@ Simple web-app usable by organizations to facilitate and track attendance, and h
 To run locally:
 1. Create a new file called *config.json* in the src folder under the root directory. Populate it as follows:
 ```
-export default {
-  apiKey: "",
-  authDomain: "",
-  databaseURL: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: ""
+{
+  "apiKey": "",
+  "authDomain": "",
+  "databaseURL": "",
+  "projectId": "",
+  "storageBucket": "",
+  "messagingSenderId": "",
+  "appId": ""
 }
 ```
  To obtain the config object you will need to set-up a firebase project and initialize an app under that project.
