@@ -9,7 +9,7 @@
     "json2csv": "^4.5.2",
     "material-datetime-picker": "^2.4.0",
     "material-ui-datetimepicker": "^1.0.7",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-google-maps": "^9.4.5",
